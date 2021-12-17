@@ -4,7 +4,7 @@
     Detect shapes in the given image
     write shape name in image using open cv
     
-## blur.y
+## blur.py
     perform 
       - Image Averaging (blur)
       - Gaussian Blur
